@@ -1,5 +1,5 @@
 
-    div.style1 {
+  div.style1 {
         color: crimson;
         padding: 50px;
         height: 100px;
@@ -15,7 +15,7 @@
     }
     div.style3 {
         padding: 13px;
-        height: 235px;
+        height: 230px;
         background-color:#7c7b7c;
         float:left;
     }
@@ -35,9 +35,8 @@
     }
     div.style6 {
         color: crimson;
-        padding: 99px;
-        height: 12px;
+        padding: 98px;
+        height: 7px;
         background-color:#7c7b7c;
         float:left;
     }
- 
